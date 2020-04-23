@@ -1,0 +1,24 @@
+body {margin: 0;}
+p {display: table;}
+form {display: inline-block;}
+#titulek {display: inline-block;width:100%;}
+#navig-footer {display: inline-block;}
+.mainpage {display: inline-block;margin: 0 auto;width:780px;padding:0 10px;}
+#base-right {display: table;margin: 0 auto;}
+#ie1 {max-width:800px;margin: 0 auto;}
+#ie2 {max-width:800px;margin: 0 auto;}
+#univerzita {max-width:800px;margin: 0 auto;padding: 3px 0 7px 0;}
+#menu {max-width:800px;margin: 0 auto;padding: 0;}
+#hlavicka {min-width: 0; padding: 0 10px;}
+#odkazy_fakult {display:none;}
+#base {margin: 0 auto;max-width: 800px;}
+.zasadky-container {display:none;}
+.UISFloatBox {display:none;}
+div.small {width: 100%;}
+span.small {max-width: 100%;}
+.menitko-all {margin: 10px 0; float: none;}
+.polozky-obal {float:none; margin: 0 0 10px 0;width:100%;}
+.polozky-obr {width: 20px;}
+.polozky-obr img {width: 20px;}
+.prostor-ikona {margin: 0; height: auto;}
+#vsechny-polozky {display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;}
